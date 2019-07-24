@@ -1,0 +1,9 @@
+name: FC 1
+
+description: plugin for FutureCraft
+
+version: 1.0
+
+main: 
+
+api: 3.0.0
