@@ -6,5 +6,9 @@ api: 3.9.1
 commands:
   rankup:
     description: "rankup with a ui"
+permissions: 
+ ru.cmd:
+  description: rankup!!!
+  default: true
 
     
